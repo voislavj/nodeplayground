@@ -1,0 +1,12 @@
+{
+    "port": 1234,
+    "environment": "development",
+    "publicPath": "public",
+    "views": {
+        "path": "app/views",
+        "engine": "jade",
+        "vars": {
+            "pageTitle": "NodePlayGround"
+        }
+    }
+}
